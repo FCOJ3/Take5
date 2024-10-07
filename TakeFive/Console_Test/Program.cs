@@ -16,16 +16,15 @@ namespace Console_Test
             Player player4 = new Player();
             Player player3 = new Player();
 
-            player1.hand = Engine.DealCards(10);
-            //player2.hand = Engine.DealCards(10);
-            //player3.hand = Engine.DealCards(10);
-            //player4.hand = Engine.DealCards(10);
-
-
             Engine.CreateCards(104);
 
             Engine.GetInitialCards();
 
+            player1.hand = Engine.DealCards(10);
+            player2.hand = Engine.DealCards(10);
+            player3.hand = Engine.DealCards(10);
+            player4.hand = Engine.DealCards(10);
+            
             Console.WriteLine();
 
             deck = Engine.GetCards();
