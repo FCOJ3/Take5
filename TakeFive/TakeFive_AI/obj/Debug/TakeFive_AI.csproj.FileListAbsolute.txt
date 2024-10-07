@@ -1,0 +1,6 @@
+D:\VS\TakeFive\TakeFive_AI\bin\Debug\TakeFive_AI.dll
+D:\VS\TakeFive\TakeFive_AI\bin\Debug\TakeFive_AI.pdb
+D:\VS\TakeFive\TakeFive_AI\obj\Debug\TakeFive_AI.csproj.AssemblyReference.cache
+D:\VS\TakeFive\TakeFive_AI\obj\Debug\TakeFive_AI.csproj.CoreCompileInputs.cache
+D:\VS\TakeFive\TakeFive_AI\obj\Debug\TakeFive_AI.dll
+D:\VS\TakeFive\TakeFive_AI\obj\Debug\TakeFive_AI.pdb

@@ -1,0 +1,11 @@
+D:\VS\TakeFive\Console_Test\bin\Debug\Console_Test.exe.config
+D:\VS\TakeFive\Console_Test\bin\Debug\Console_Test.exe
+D:\VS\TakeFive\Console_Test\bin\Debug\Console_Test.pdb
+D:\VS\TakeFive\Console_Test\bin\Debug\TakeFive_AI.dll
+D:\VS\TakeFive\Console_Test\bin\Debug\TakeFive_AI.pdb
+D:\VS\TakeFive\Console_Test\obj\Debug\Console_Test.csproj.AssemblyReference.cache
+D:\VS\TakeFive\Console_Test\obj\Debug\Console_Test.csproj.SuggestedBindingRedirects.cache
+D:\VS\TakeFive\Console_Test\obj\Debug\Console_Test.csproj.CoreCompileInputs.cache
+D:\VS\TakeFive\Console_Test\obj\Debug\Console_Test.csproj.CopyComplete
+D:\VS\TakeFive\Console_Test\obj\Debug\Console_Test.exe
+D:\VS\TakeFive\Console_Test\obj\Debug\Console_Test.pdb
